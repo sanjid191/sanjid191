@@ -1,358 +1,129 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Stellar README</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+<!-- Header Banner -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20To%20My%20Profile&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+</div>
 
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: #fff;
-            padding: 40px 20px;
-            min-height: 100vh;
-        }
+<!-- Animated Typing Introduction -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+a+Full+Stack+Developer+%F0%9F%9A%80;Always+learning+new+technologies+%F0%9F%92%A1;Building+amazing+projects+%E2%9C%A8" alt="Typing SVG" />
+</div>
 
-        .container {
-            max-width: 900px;
-            margin: 0 auto;
-            background: rgba(255, 255, 255, 0.1);
-            backdrop-filter: blur(10px);
-            border-radius: 20px;
-            padding: 50px;
-            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
-            border: 1px solid rgba(255, 255, 255, 0.2);
-        }
+<!-- About Me Section -->
+<h2 align="center">🌟 About Me</h2>
 
-        .header {
-            text-align: center;
-            margin-bottom: 50px;
-            position: relative;
-        }
+<p align="center">
+  <samp>
+    Passionate developer crafting innovative solutions | Code enthusiast | Open source contributor
+    <br/>
+    Building the future, one commit at a time 🚀
+  </samp>
+</p>
 
-        .header h1 {
-            font-size: 3.5em;
-            margin-bottom: 10px;
-            background: linear-gradient(45deg, #fff, #a8edea);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-            animation: glow 3s ease-in-out infinite;
-        }
+<!-- Tech Stack with Badges -->
+<h2 align="center">💻 Tech Stack</h2>
 
-        @keyframes glow {
-            0%, 100% { filter: drop-shadow(0 0 20px rgba(255, 255, 255, 0.5)); }
-            50% { filter: drop-shadow(0 0 40px rgba(255, 255, 255, 0.8)); }
-        }
+<div align="center">
+  
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  
+  <!-- Frontend -->
+  <br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  
+  <!-- Backend -->
+  <br/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  
+</div>
 
-        .tagline {
-            font-size: 1.3em;
-            color: rgba(255, 255, 255, 0.9);
-            margin-bottom: 30px;
-        }
+<!-- GitHub Stats with Cards -->
+<h2 align="center">📊 GitHub Statistics</h2>
 
-        .badges {
-            display: flex;
-            justify-content: center;
-            gap: 10px;
-            flex-wrap: wrap;
-            margin: 20px 0;
-        }
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" alt="GitHub Streak" />
+</div>
 
-        .badge {
-            background: rgba(255, 255, 255, 0.2);
-            padding: 8px 16px;
-            border-radius: 20px;
-            font-size: 0.9em;
-            border: 1px solid rgba(255, 255, 255, 0.3);
-            transition: all 0.3s ease;
-        }
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFF" alt="Top Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=radical&utcOffset=6" alt="Productive Time" />
+</div>
 
-        .badge:hover {
-            background: rgba(255, 255, 255, 0.3);
-            transform: translateY(-3px);
-            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
-        }
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=f85d7f&line=f8d866&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
 
-        .section {
-            margin: 40px 0;
-            animation: fadeIn 1s ease-in;
-        }
+<!-- Current Projects -->
+<h2 align="center">🚀 Featured Projects</h2>
 
-        @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(20px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
+<div align="center">
+  
+  <a href="https://github.com/YOUR_USERNAME/PROJECT_1">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Project 1" />
+  </a>
+  
+  <a href="https://github.com/YOUR_USERNAME/PROJECT_2">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Project 2" />
+  </a>
+  
+</div>
 
-        .section h2 {
-            font-size: 2em;
-            margin-bottom: 20px;
-            position: relative;
-            padding-left: 20px;
-        }
+<!-- Trophies -->
+<h2 align="center">🏆 GitHub Trophies</h2>
 
-        .section h2:before {
-            content: '';
-            position: absolute;
-            left: 0;
-            top: 50%;
-            transform: translateY(-50%);
-            width: 5px;
-            height: 30px;
-            background: linear-gradient(180deg, #fff, #a8edea);
-            border-radius: 5px;
-        }
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+</div>
 
-        .features {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 20px;
-            margin-top: 30px;
-        }
+<!-- Dynamic Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
 
-        .feature-card {
-            background: rgba(255, 255, 255, 0.15);
-            padding: 25px;
-            border-radius: 15px;
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            transition: all 0.3s ease;
-            cursor: pointer;
-        }
+<!-- Connect with Me -->
+<h2 align="center">🤝 Connect With Me</h2>
 
-        .feature-card:hover {
-            transform: translateY(-5px) scale(1.02);
-            background: rgba(255, 255, 255, 0.25);
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
-        }
+<div align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://YOUR_PORTFOLIO.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
-        .feature-card h3 {
-            font-size: 1.5em;
-            margin-bottom: 10px;
-            display: flex;
-            align-items: center;
-            gap: 10px;
-        }
+<!-- Profile Views Counter -->
+<div align="center">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=F85D7F&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
 
-        .icon {
-            font-size: 1.8em;
-            animation: bounce 2s infinite;
-        }
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-        @keyframes bounce {
-            0%, 100% { transform: translateY(0); }
-            50% { transform: translateY(-10px); }
-        }
-
-        .tech-stack {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 15px;
-            margin-top: 20px;
-        }
-
-        .tech-item {
-            background: rgba(255, 255, 255, 0.2);
-            padding: 12px 20px;
-            border-radius: 10px;
-            font-weight: 600;
-            border: 2px solid rgba(255, 255, 255, 0.3);
-            transition: all 0.3s ease;
-        }
-
-        .tech-item:hover {
-            background: rgba(255, 255, 255, 0.3);
-            transform: scale(1.1) rotate(2deg);
-        }
-
-        .cta-button {
-            display: inline-block;
-            background: linear-gradient(45deg, #667eea, #764ba2);
-            color: white;
-            padding: 15px 40px;
-            border-radius: 30px;
-            text-decoration: none;
-            font-weight: bold;
-            font-size: 1.1em;
-            margin: 10px;
-            border: 2px solid rgba(255, 255, 255, 0.4);
-            transition: all 0.3s ease;
-            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
-        }
-
-        .cta-button:hover {
-            transform: translateY(-3px);
-            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
-            background: linear-gradient(45deg, #764ba2, #667eea);
-        }
-
-        .stats {
-            display: flex;
-            justify-content: space-around;
-            margin: 40px 0;
-            flex-wrap: wrap;
-            gap: 20px;
-        }
-
-        .stat-item {
-            text-align: center;
-            background: rgba(255, 255, 255, 0.1);
-            padding: 25px;
-            border-radius: 15px;
-            flex: 1;
-            min-width: 150px;
-            border: 1px solid rgba(255, 255, 255, 0.2);
-        }
-
-        .stat-number {
-            font-size: 2.5em;
-            font-weight: bold;
-            background: linear-gradient(45deg, #fff, #a8edea);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-        }
-
-        .stat-label {
-            font-size: 1em;
-            color: rgba(255, 255, 255, 0.8);
-            margin-top: 10px;
-        }
-
-        .footer {
-            text-align: center;
-            margin-top: 50px;
-            padding-top: 30px;
-            border-top: 1px solid rgba(255, 255, 255, 0.2);
-        }
-
-        .social-links {
-            display: flex;
-            justify-content: center;
-            gap: 20px;
-            margin: 20px 0;
-        }
-
-        .social-link {
-            width: 50px;
-            height: 50px;
-            background: rgba(255, 255, 255, 0.2);
-            border-radius: 50%;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 1.5em;
-            transition: all 0.3s ease;
-            border: 2px solid rgba(255, 255, 255, 0.3);
-        }
-
-        .social-link:hover {
-            background: rgba(255, 255, 255, 0.3);
-            transform: scale(1.2) rotate(360deg);
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="header">
-            <h1>✨ Project Stellar ✨</h1>
-            <p class="tagline">Building the future, one commit at a time</p>
-            <div class="badges">
-                <span class="badge">⭐ MIT License</span>
-                <span class="badge">🚀 v2.0.0</span>
-                <span class="badge">💚 Open Source</span>
-                <span class="badge">🔥 Active</span>
-            </div>
-        </div>
-
-        <div class="stats">
-            <div class="stat-item">
-                <div class="stat-number">1.2K</div>
-                <div class="stat-label">Stars</div>
-            </div>
-            <div class="stat-item">
-                <div class="stat-number">340</div>
-                <div class="stat-label">Forks</div>
-            </div>
-            <div class="stat-item">
-                <div class="stat-number">50+</div>
-                <div class="stat-label">Contributors</div>
-            </div>
-        </div>
-
-        <div class="section">
-            <h2>🎯 About</h2>
-            <p>Project Stellar is a revolutionary open-source platform designed to empower developers worldwide. With cutting-edge features and a vibrant community, we're redefining what's possible in modern software development.</p>
-        </div>
-
-        <div class="section">
-            <h2>✨ Features</h2>
-            <div class="features">
-                <div class="feature-card">
-                    <h3><span class="icon">⚡</span> Lightning Fast</h3>
-                    <p>Optimized performance with blazing-fast load times and minimal footprint.</p>
-                </div>
-                <div class="feature-card">
-                    <h3><span class="icon">🎨</span> Beautiful UI</h3>
-                    <p>Modern, intuitive design that delights users at every interaction.</p>
-                </div>
-                <div class="feature-card">
-                    <h3><span class="icon">🔒</span> Secure</h3>
-                    <p>Enterprise-grade security with industry-standard encryption.</p>
-                </div>
-                <div class="feature-card">
-                    <h3><span class="icon">🌐</span> Scalable</h3>
-                    <p>Built to grow with your needs from startup to enterprise.</p>
-                </div>
-            </div>
-        </div>
-
-        <div class="section">
-            <h2>🛠️ Tech Stack</h2>
-            <div class="tech-stack">
-                <span class="tech-item">React</span>
-                <span class="tech-item">Node.js</span>
-                <span class="tech-item">TypeScript</span>
-                <span class="tech-item">MongoDB</span>
-                <span class="tech-item">Docker</span>
-                <span class="tech-item">AWS</span>
-            </div>
-        </div>
-
-        <div class="section">
-            <h2>🚀 Quick Start</h2>
-            <p>Get up and running in seconds:</p>
-            <div style="background: rgba(0,0,0,0.3); padding: 20px; border-radius: 10px; margin-top: 20px; font-family: monospace;">
-                <p>$ git clone https://github.com/yourusername/project-stellar.git</p>
-                <p>$ cd project-stellar</p>
-                <p>$ npm install</p>
-                <p>$ npm start</p>
-            </div>
-        </div>
-
-        <div class="section" style="text-align: center;">
-            <h2>💫 Get Involved</h2>
-            <p style="margin-bottom: 30px;">Join our growing community and help shape the future!</p>
-            <a href="#" class="cta-button">⭐ Star on GitHub</a>
-            <a href="#" class="cta-button">📖 Read Docs</a>
-            <a href="#" class="cta-button">🤝 Contribute</a>
-        </div>
-
-        <div class="footer">
-            <div class="social-links">
-                <div class="social-link">🐦</div>
-                <div class="social-link">💼</div>
-                <div class="social-link">💬</div>
-                <div class="social-link">📧</div>
-            </div>
-            <p>Made with ❤️ by developers, for developers</p>
-            <p style="margin-top: 10px; color: rgba(255,255,255,0.6);">© 2025 Project Stellar. All rights reserved.</p>
-        </div>
-    </div>
-</body>
-</html>
+<!-- Footer Wave -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</div>
