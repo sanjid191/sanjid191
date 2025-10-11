@@ -3,6 +3,7 @@
 <p>
     <h4 align="center">Final Semester Computer Science and Engineering Student </h4>
     <h3 align="center" > Focus areas: <b>Front-End Development</b>, <b>Software Quality Assurance (SQA)</b>, <b> Java Spring Boot</b>.</H4>
+    
 </p>
 
 
