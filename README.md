@@ -1,4 +1,4 @@
-<h1 align="center"> Sanjid Ahmmed</h1>
+<h1 align="center">💻 Sanjid Ahmmed</h1>
 <h4 align="center">Final Semester Computer Science and Engineering Student</h4>
 <h3 align="center">Focus Areas: <b>Front-End Development</b> • <b>Software Quality Assurance (SQA)</b> • <b>Java Spring Boot</b></h3>
 
@@ -60,13 +60,34 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+
+  <!-- General Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=sanjid191&show_icons=true&theme=radical&count_private=true" height="150"/>
+  
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjid191&layout=compact&theme=radical" height="150"/>
+  
   <br/>
+
+  <!-- Profile Summary -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjid191&theme=radical" height="180"/>
+  
+  <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjid191&theme=radical&count_private=true" height="180"/>
+  
   <br/>
+
+  <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjid191&theme=radical&count_private=true" height="200"/>
+
+  <br/>
+  <br/>
+
+  <!-- GitHub Achievements -->
+  <img src="https://github-profile-trophy.vercel.app/?username=sanjid191&theme=radical&no-frame=true&margin-w=15&margin-h=15" height="150"/>
+
+  <br/>
+
 </p>
 
 ---
