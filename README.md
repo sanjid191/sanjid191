@@ -1,12 +1,6 @@
-
-<h1 align="center">Sanjid Ahmmed</h1>
-<p>
-    <h4 align="center">Final Semester Computer Science and Engineering Student </h4>
-    <h3 align="center" > Focus areas: <b>Front-End Development</b>, <b>Software Quality Assurance (SQA)</b>, <b> Java Spring Boot</b>.</H4>
-    
-</p>
-
-
+<h1 align="center">💻 Sanjid Ahmmed</h1>
+<h4 align="center">Final Semester Computer Science and Engineering Student</h4>
+<h3 align="center">Focus Areas: <b>Front-End Development</b> • <b>Software Quality Assurance (SQA)</b> • <b>Java Spring Boot</b></h3>
 
 ---
 
@@ -43,7 +37,7 @@
       <h3>Database Management</h3>
       <ul>
         <li><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> </li>
-        <li><img ser=<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> </li>
+        <li><img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/> </li>
       </ul>
       <h3>Frameworks</h3>
       <ul>
@@ -66,13 +60,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjid191&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjid191&show_icons=true&theme=radical&count_private=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjid191&layout=compact&theme=radical" height="150"/>
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjid191&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjid191&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjid191&theme=radical&count_private=true" height="180"/>
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjid191&theme=radical" height="200"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjid191&theme=radical&count_private=true" height="200"/>
 </p>
 
 ---
@@ -81,12 +75,15 @@
 
 - 🔭 I’m passionate about applying my skills to real-world projects.
 - 🌱 I’m always learning and adapting to new technologies.
-- 🤝 I enjoy working in teams and contributing to innovative projects.
+- 🤝 I enjoy collaborating and contributing to innovative teams.
 - 🎯 My goal is to make a positive impact in the technology sector.
 
-## 📫 How to reach me
+---
 
-- [sanjid.sa191@gmail.com]
+## 📫 Contact Me
+
+- 📧 **Email:** [sanjid.sa191@gmail.com](mailto:sanjid.sa191@gmail.com)
+- 🌐 **GitHub:** [github.com/sanjid191](https://github.com/sanjid191)
 
 ---
 
