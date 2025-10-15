@@ -8,6 +8,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,react,php,mysql,spring,tailwind,bootstrap,latex,matlab,autocad"/>
+  
 </p>
 
 <div align="center">
