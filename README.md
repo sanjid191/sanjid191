@@ -2,6 +2,7 @@
 <h4 align="center">Final Semester Computer Science and Engineering Student</h4>
 <h3 align="center">Focus Areas: <b>Front-End Development</b> • <b>Software Quality Assurance (SQA)</b> • <b>Java Spring Boot</b></h3>
 
+
 ---
 
 ## 🚀 Skills
