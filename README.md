@@ -35,7 +35,6 @@
         <li><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> </li>
       </ul>
     </td>
-    
     <td valign="top">
       <h3>Database Management</h3>
       <ul>
