@@ -1,6 +1,6 @@
 <h1 align="center"> Sanjid Ahmmed</h1>
 <h4 align="center">Final Semester Computer Science and Engineering Student</h4>
-<h3 align="center">Focus Areas: • <b>Software Quality Assurance (SQA)</b> • <b>Front-End Development</b> • 
+<h3 align="center">Focus Areas: <b>Software Quality Assurance (SQA)</b> || <b>Front-End Development</b>
 
 
 ---
