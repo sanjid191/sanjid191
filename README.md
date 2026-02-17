@@ -1,6 +1,6 @@
 <h1 align="center"> Sanjid Ahmmed</h1>
-<h4 align="center">Final Semester Computer Science and Engineering Student</h4>
-<h3 align="center">Focus Areas: <b>Software Quality Assurance (SQA)</b> || <b>Front-End Developer </b>
+<h4 align="center">Computer Science and Engineering (CSE) Graduate</h4>
+<h3 align="center">Focus Areas: <b>Software Quality Assurance (SQA)</b> || <b>Frontend Developer </b>
 
 
 ---
@@ -8,7 +8,7 @@
 ## 🚀 Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,react,php,mysql,spring,tailwind,bootstrap,latex,matlab,autocad"/>
+  <img src="https://skillicons.dev/icons?i=java,python,selenium,postman,c,js,html,css,react,php,mysql,spring,tailwind,latex,autocad"/>
   
 </p>
 
