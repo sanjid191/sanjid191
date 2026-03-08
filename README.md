@@ -1,6 +1,7 @@
 <h1 align="center"> Sanjid Ahmmed</h1>
 <h4 align="center">Computer Science and Engineering (CSE) Graduate</h4>
 <h3 align="center">Focus Areas: <b>Software Quality Assurance (SQA)</b> || <b>Frontend Developer </b>
+<h3 align="center"> Portfolio Website: <a href="https://sanjidahmmed.me/">https://sanjidahmmed.me/</a> </h3>
 
 
 ---
