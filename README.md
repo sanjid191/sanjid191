@@ -96,11 +96,6 @@
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjid191&theme=radical&count_private=true" height="200"/>
 
-  <br/>
-  <br/>
-
-  <!-- GitHub Achievements -->
-  <img src="https://github-profile-trophy.vercel.app/?username=sanjid191&theme=radical&no-frame=true&margin-w=15&margin-h=15" height="150"/>
 
   <br/>
 
