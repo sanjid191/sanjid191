@@ -93,9 +93,9 @@
   
   <br/>
 
-  <!-- Activity Graph -->
+  <!-- Activity Graph 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjid191&theme=radical&count_private=true" height="200"/>
-
+-->
 
   <br/>
 
