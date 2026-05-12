@@ -105,10 +105,9 @@
 
 ## 💡 About Me
 
-- 🔭 I’m passionate about applying my skills to real-world projects.
-- 🌱 I’m always learning and adapting to new technologies.
-- 🤝 I enjoy collaborating and contributing to innovative teams.
-- 🎯 My goal is to make a positive impact in the technology sector.
+Computer Science and Engineering student with hands-on experience in Software Quality Assurance (SQA) and Frontend Development. Skilled in manual testing, test case design, bug tracking, API testing, and UI/UX validation with practical knowledge of Selenium WebDriver, Pytest, Postman, and JMeter. Experienced in building responsive and scalable web applications using React, Next.js, JavaScript, Node.js, and modern frontend technologies.
+<br>
+Strong understanding of Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC) with the ability to collaborate effectively in agile and team-oriented environments. Passionate about delivering high-quality software solutions, problem-solving, and continuously learning emerging technologies. Currently expanding expertise in ERP systems and business application development by learning Odoo.
 
 ---
 
