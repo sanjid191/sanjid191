@@ -55,10 +55,10 @@
         <li><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></li>
         <li><img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/></li>
       </ul>
-      <h3>Frameworks</h3>
+      <!-- <h3>Frameworks</h3>
       <ul>
         <li><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/></li>
-      </ul>
+      </ul> -->
       <h3>Tools</h3>
       <ul>
         <li><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white"/></li>
