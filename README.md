@@ -107,6 +107,7 @@
 ---
 
 
+
 ## 💡 About Me
 
 Computer Science and Engineering student with hands-on experience in Software Quality Assurance (SQA) and Full Stack Development. Skilled in manual testing, test case design, bug tracking, API testing, and UI/UX validation with practical knowledge of Selenium WebDriver, Pytest, Postman, and JMeter. Experienced in building responsive and scalable web applications using React, Next.js, JavaScript, Node.js, and modern frontend technologies.
